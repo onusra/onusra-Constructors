@@ -13,6 +13,7 @@
  *      Player newPlayer = new Player("Mario");
  *      Player newPlayer = new Player("Mario", 35);
  **/
+
 public class Player {
     public String playerName;
     public int level;
